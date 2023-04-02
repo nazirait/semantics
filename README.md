@@ -1,4 +1,4 @@
-# semantics
+# Semantics: Ontology alignment with external KBs: DBpedia and WikiData
 This project aligns the ontology with external Knowledge Bases (KBs) such as DBpedia and Wikidata, and verifies if the provided links are valid. 
 
 The instruction on how to launch, configure, and use the solution is below:
